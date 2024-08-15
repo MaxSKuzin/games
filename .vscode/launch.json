@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bang",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bang (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bang (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "local_network_room",
+            "cwd": "local_network_room",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "local_network_room (profile mode)",
+            "cwd": "local_network_room",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "local_network_room (release mode)",
+            "cwd": "local_network_room",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
